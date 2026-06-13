@@ -1,4 +1,4 @@
-# Cheruiyotkii
+# Cheruiyotki
 # Hi there, I'm Wilborn Cheruiyot 👋 
 
 I am a passionate **Full-Stack Developer**, **QA**, and **Telecommunication & Information Engineering** student. I bridge the gap between robust software architectures, rigorous quality engineering, and complex hardware/networking systems.
